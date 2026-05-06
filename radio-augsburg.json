@@ -1,0 +1,6 @@
+{
+  "name": "Radio Augsburg",
+  "streamUrl": "http://stream.radio-augsburg.de/radioaugsburg.mp3",
+  "streamType": "liveRadio",
+  "isRealtime": true
+}
